@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Veg Pizza",
+    "desc": "Fresh and good",
+    "price": 140
+  },
+  {
+    "id": 2,
+    "name": "Chicken Pizza",
+    "desc": "Fresh and good meat",
+    "price": 240
+  },
+  {
+    "id": 3,
+    "name": "Egg Pizza",
+    "desc": "Fresh and good meat",
+    "price": 90,
+    "specialOffer": true
+  }
+]
